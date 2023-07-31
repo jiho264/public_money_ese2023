@@ -3,7 +3,7 @@
 ## 다운로드 방법
 
 1. 초록색 <>Code 버튼 - Download ZIP (압축 파일 다운로드)
-2. $ git clone https://github.com/jiho264/pubulic_money_ese2023
+2. $ git clone https://github.com/jiho264/public_money_ese2023
 
 ## Etc..
 
